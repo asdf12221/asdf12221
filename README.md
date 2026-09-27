@@ -10,7 +10,8 @@ Since **2026.4–present**, I have been a **Research Intern** at the **Cross-Med
 
 I am inspired by **He Kaiming** and his work on practical, elegant, and scalable computer vision systems.
 
-> *Build carefully, learn continuously, and make useful things open.*
+> *“If you think you have a good idea, either someone else has already done it, or it’s a bad idea.”*  
+> — Often attributed to Kaiming He
 
 ## Selected projects
 
