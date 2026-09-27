@@ -6,7 +6,7 @@
 
 I am a 2025-entry undergraduate student majoring in Software Engineering at [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/).
 
-Since **2026.4–present**, I have been a **Research Intern** at the **Cross-Media Intelligence Research Center, Harbin Institute of Technology**. My current interests include remote sensing image synthesis, computer vision, object detection, and autonomous systems.
+Since **2026.4–present**, I have been a **Research Intern** at the **Cross-Media Intelligence Research Center, Harbin Institute of Technology**. My current interests include remote sensing image synthesis, computer vision, 3D object detection, and tracking.
 
 I am inspired by **He Kaiming** and his work on practical, elegant, and scalable computer vision systems.
 
