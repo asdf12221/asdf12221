@@ -1,5 +1,5 @@
 <div>
-  <img align="right" width="28%" src="https://github.com/asdf12221.png" alt="Jingyue Xu" />
+  <img align="right" width="28%" src="assets/profile-cat.png" alt="Jingyue Xu" />
 </div>
 
 # Jingyue Xu
