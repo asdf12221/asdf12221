@@ -1,7 +1,3 @@
-<div>
-  <img align="right" width="28%" src="assets/profile-cat.png" alt="Jingyue Xu" />
-</div>
-
 # Jingyue Xu
 
 I am a 2025-entry undergraduate student majoring in Software Engineering at [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/).
