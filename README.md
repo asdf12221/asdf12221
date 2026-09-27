@@ -1,10 +1,13 @@
 <div align="center">
 
-# Hi, I'm asdf12221 👋
+# Hi, I'm Jingyue Xu 👋
 
-### Remote Sensing · Computer Vision · Autonomous Systems
+### Software Engineering Undergraduate · Research Intern
 
-用代码探索遥感影像生成、目标检测与无人系统。
+<a href="https://www.hit.edu.cn/"><img src="https://img.shields.io/badge/HIT-%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6-8B1E3F?style=for-the-badge&logo=academia&logoColor=white" alt="Harbin Institute of Technology"></a>
+
+哈尔滨工业大学 · 软件工程本科生  
+Research Intern, Cross-Media Intelligence Research Center, Harbin Institute of Technology
 
 [![GitHub](https://img.shields.io/badge/GitHub-asdf12221-181717?style=flat-square&logo=github)](https://github.com/asdf12221)
 ![Python](https://img.shields.io/badge/Python-Research_%26_Engineering-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -53,7 +56,7 @@
 ## Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,opencv,ros,linux,git,github&perline=8" alt="Python, PyTorch, C++, OpenCV, ROS, Linux, Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,pytorch,linux,git,github,latex&perline=8" alt="C, C++, Python, PyTorch, Linux, Git, GitHub and LaTeX" />
 </p>
 
 <div align="center">
