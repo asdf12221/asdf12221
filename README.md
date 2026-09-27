@@ -1,58 +1,44 @@
-<div align="center">
-
-# Hi, I'm Jingyue Xu 👋
-
-### Software Engineering Undergraduate · Research Intern
-
-哈尔滨工业大学 · 软件工程本科生  
-2026.4–present · Research Intern, Cross-Media Intelligence Research Center, Harbin Institute of Technology
-
+<div>
+  <img align="right" width="28%" src="https://github.com/asdf12221.png" alt="Jingyue Xu" />
 </div>
 
-## About me
+# Jingyue Xu
 
-我主要关注 **遥感图像合成**、**小目标检测** 和 **无人系统**。这里记录从数据生成、模型训练到评测与工程整理的完整实践，也保留了一些课程与早期项目。
+I am a 2025-entry undergraduate student majoring in Software Engineering at [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/).
 
-- 🛰️ 遥感影像生成与数据增强
-- 🎯 复杂场景下的目标检测
-- 🚗 规划、感知、建图与控制
-- 📈 机器学习与量化建模实践
+Since **2026.4–present**, I have been a **Research Intern** at the **Cross-Media Intelligence Research Center, Harbin Institute of Technology**. My current interests include remote sensing image synthesis, computer vision, object detection, and autonomous systems.
 
-## Featured projects
+I am inspired by **He Kaiming** and his work on practical, elegant, and scalable computer vision systems.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/asdf12221/FPBA-Syn">FPBA-Syn</a></h3>
-      <p>面向遥感场景的通用目标合成框架，覆盖前景提取、背景适配、融合生成与质量评估流程。</p>
-      <p><code>Python</code> <code>Remote Sensing</code> <code>Data Synthesis</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/asdf12221/remote-dectection-mode-XH-202625">Remote Object Detection</a></h3>
-      <p>基于 InternImage、BiFPN 与 Cascade R-CNN 的遥感目标检测项目，包含训练、验证、cRT 调优与评测脚本。</p>
-      <p><code>MMDetection</code> <code>InternImage</code> <code>cRT</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/asdf12221/HRT-unmanned-system-homework">HRT 无人系统组纳新作业</a></h3>
-      <p>围绕规划、感知、建图和控制整理的无人系统入门作业与 ROS 2 实践。</p>
-      <p><code>C++</code> <code>ROS 2</code> <code>Autonomous Systems</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/asdf12221/stock-trading-model">Stock Trading Model</a></h3>
-      <p>大一年度项目：结合小波去噪、Transformer 与 XGBoost 的股票趋势预测实验。</p>
-      <p><code>PyTorch</code> <code>Transformer</code> <code>XGBoost</code></p>
-    </td>
-  </tr>
-</table>
+> *Build carefully, learn continuously, and make useful things open.*
 
-## Toolbox
+## Selected projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,pytorch,linux,git,github,latex&perline=8" alt="C, C++, Python, PyTorch, Linux, Git, GitHub and LaTeX" />
+- [**FPBA-Syn**](https://github.com/asdf12221/FPBA-Syn) — A general-purpose framework for remote sensing image synthesis and data augmentation.
+- [**Remote Object Detection**](https://github.com/asdf12221/remote-dectection-mode-XH-202625) — InternImage + BiFPN + Cascade R-CNN for remote sensing object detection.
+- [**HRT Unmanned System Homework**](https://github.com/asdf12221/HRT-unmanned-system-homework) — Entry assignments covering planning, perception, mapping, and control.
+- [**Stock Trading Model**](https://github.com/asdf12221/stock-trading-model) — A freshman-year project combining wavelet denoising, Transformer, and XGBoost.
+
+## Skills
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
-<div align="center">
-  <sub>持续整理项目，也持续把实验变成可复现、可阅读的开源实现。</sub>
-</div>
+## Contact
+
+If you are interested in research collaboration or open-source projects, feel free to reach out.
+
+- GitHub: [@asdf12221](https://github.com/asdf12221)
+- Email: [2025212631@stu.hit.edu.cn](mailto:2025212631@stu.hit.edu.cn)
+
+---
+
+<p align="center"><i>Open to research collaboration and meaningful open-source contributions.</i></p>
