@@ -16,7 +16,7 @@ My research interests center on vision-language models (VLMs), especially how to
 
 ## Selected projects
 
-- [**AIC 2026 Algorithm Challenge**](https://www.aicomp.cn/tracks/tracks-1/3700.html) — **National First Prize.** Built a multimodal detector that combines RGB, thermal infrared, and depth images to locate and classify objects in urban scenes.
+- [**AIC 2026 Algorithm Challenge**](https://www.aicomp.cn/tracks/tracks-1/3700.html) — 🥇 **National First Prize.** Built a multimodal detector that combines RGB, thermal infrared, and depth images to locate and classify objects in urban scenes.
 - [**FPBA-Syn**](https://github.com/asdf12221/FPBA-Syn) — A framework for remote sensing image synthesis and data augmentation.
 - [**Remote Sensing Detection**](https://github.com/asdf12221/remote-dectection-mode) — An InternImage-L, BiFPN, and Cascade R-CNN pipeline for object detection in remote sensing imagery.
 - [**Stock Trading Model**](https://github.com/asdf12221/stock-trading-model) — A project combining wavelet denoising, Transformer, and XGBoost.
