@@ -1,6 +1,11 @@
 # Jingyue Xu
 
-I am a Software Engineering undergraduate at [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/), where I enrolled in 2025. I have been a research intern at HIT's Cross-Media Intelligence Research Center since April 2026.
+I am a Software Engineering undergraduate at [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/), where I enrolled in 2025.
+
+## Research experience
+
+- **Research Intern**, [SIGMA Lab](https://sigma-sufe.com/), Shanghai University of Finance and Economics (SUFE) · Oct 2026 – Present
+- **Research Intern**, Cross-Media Intelligence Research Center, Harbin Institute of Technology (HIT) · Apr 2026 – Present
 
 ## Research interests
 
