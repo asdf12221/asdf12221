@@ -14,7 +14,7 @@ My research interests center on vision-language models (VLMs), especially how to
 - **Training-free spatial reasoning** — Using 3D scene representations, multiple viewpoints, and geometric tools to reason about spatial relationships.
 - **Activation steering** — Extracting steering vectors, identifying where to intervene in the model, and applying them during inference.
 
-## Research contributions
+## Publications
 
 - **IUV-Bench** — Sixth author.
 
