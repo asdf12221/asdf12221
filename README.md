@@ -1,21 +1,25 @@
 # Jingyue Xu
 
-I am a 2025-entry undergraduate student majoring in Software Engineering at [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/).
+I am a Software Engineering undergraduate at [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/), where I enrolled in 2025. I have been a research intern at HIT's Cross-Media Intelligence Research Center since April 2026.
 
-Since **2026.4–present**, I have been a **Research Intern** at the **Cross-Media Intelligence Research Center, Harbin Institute of Technology**. My current interests include remote sensing image synthesis, computer vision, 3D object detection, and tracking.
+## Research interests
 
-I am inspired by **He Kaiming** and his work on practical, elegant, and scalable computer vision systems.
+My research interests center on vision-language models (VLMs), especially how to improve their spatial reasoning at inference time without retraining.
 
-> *“If you think you have a good idea, either someone else has already done it, or it’s a bad idea.”*  
-> — Kaiming He
+- **Training-free spatial reasoning** — Using 3D scene representations, multiple viewpoints, and geometric tools to reason about spatial relationships.
+- **Activation steering** — Extracting steering vectors, identifying where to intervene in the model, and applying them during inference.
+
+## Research notes
+
+- [**Training-Free Spatial Reasoning Survey**](https://github.com/asdf12221/training-free_special_reasoning_enhancement_investigate) — Notes on 3D perception, symbolic spatial reasoning, and tool use in VLMs.
+- [**Vector Steering Survey**](https://github.com/asdf12221/steering_investigate) — Notes on steering vector extraction and activation interventions in language and vision-language models.
 
 ## Selected projects
 
-- [**Vector Steering Survey**](https://github.com/asdf12221/steering_investigate) — Literature notes on how LLMs and multimodal models extract steering vectors, choose where to intervene, and apply them during inference.
-- [**FPBA-Syn**](https://github.com/asdf12221/FPBA-Syn) — A general-purpose framework for remote sensing image synthesis and data augmentation.
-- [**Remote Object Detection**](https://github.com/asdf12221/remote-dectection-mode-XH-202625) — InternImage + BiFPN + Cascade R-CNN for remote sensing object detection.
-- [**HRT Unmanned System Homework**](https://github.com/asdf12221/HRT-unmanned-system-homework) — Entry assignments covering planning, perception, mapping, and control.
-- [**Stock Trading Model**](https://github.com/asdf12221/stock-trading-model) — A freshman-year project combining wavelet denoising, Transformer, and XGBoost.
+- [**FPBA-Syn**](https://github.com/asdf12221/FPBA-Syn) — A framework for remote sensing image synthesis and data augmentation.
+- [**Remote Sensing Detection**](https://github.com/asdf12221/remote-dectection-mode) — An InternImage-L, BiFPN, and Cascade R-CNN pipeline for object detection in remote sensing imagery.
+- [**HRT Unmanned System Homework**](https://github.com/asdf12221/HRT-unmanned-system-homework) — Coursework on planning, perception, mapping, and control.
+- [**Stock Trading Model**](https://github.com/asdf12221/stock-trading-model) — A project combining wavelet denoising, Transformer, and XGBoost.
 
 ## Skills
 
@@ -32,11 +36,6 @@ I am inspired by **He Kaiming** and his work on practical, elegant, and scalable
 
 ## Contact
 
-If you are interested in research collaboration or open-source projects, feel free to reach out.
+I’m open to research collaboration on vision-language models, spatial reasoning, and activation steering.
 
-- GitHub: [@asdf12221](https://github.com/asdf12221)
 - Email: [2025212631@stu.hit.edu.cn](mailto:2025212631@stu.hit.edu.cn)
-
----
-
-<p align="center"><i>Open to research collaboration and meaningful open-source contributions.</i></p>
