@@ -11,6 +11,7 @@ I am inspired by **He Kaiming** and his work on practical, elegant, and scalable
 
 ## Selected projects
 
+- [**Vector Steering Survey**](https://github.com/asdf12221/steering_investigate) — Literature notes on how LLMs and multimodal models extract steering vectors, choose where to intervene, and apply them during inference.
 - [**FPBA-Syn**](https://github.com/asdf12221/FPBA-Syn) — A general-purpose framework for remote sensing image synthesis and data augmentation.
 - [**Remote Object Detection**](https://github.com/asdf12221/remote-dectection-mode-XH-202625) — InternImage + BiFPN + Cascade R-CNN for remote sensing object detection.
 - [**HRT Unmanned System Homework**](https://github.com/asdf12221/HRT-unmanned-system-homework) — Entry assignments covering planning, perception, mapping, and control.
