@@ -5,7 +5,7 @@ I am a Software Engineering undergraduate at [Harbin Institute of Technology (HI
 ## Research experience
 
 - **Research Intern**, [SIGMA Lab](https://sigma-sufe.com/), Shanghai University of Finance and Economics (SUFE) · Oct 2026 – Present
-- **Research Intern**, Cross-Media Intelligence Research Center, Harbin Institute of Technology (HIT) · Apr 2026 – Present
+- **Research Intern**, [Cross-Media Intelligence Research Center](https://fifth-space.github.io/HITWH-CS/labs/acrossMedia/), Harbin Institute of Technology (HIT) · Apr 2026 – Present
 
 ## Research interests
 
