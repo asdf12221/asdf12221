@@ -18,7 +18,7 @@ My research interests center on vision-language models (VLMs), especially how to
 
 - [**FPBA-Syn**](https://github.com/asdf12221/FPBA-Syn) — A framework for remote sensing image synthesis and data augmentation.
 - [**Remote Sensing Detection**](https://github.com/asdf12221/remote-dectection-mode) — An InternImage-L, BiFPN, and Cascade R-CNN pipeline for object detection in remote sensing imagery.
-- [**HRT Unmanned System Homework**](https://github.com/asdf12221/HRT-unmanned-system-homework) — Coursework on planning, perception, mapping, and control.
+- **AIC 2026 Algorithm Challenge** — National First Prize.
 - [**Stock Trading Model**](https://github.com/asdf12221/stock-trading-model) — A project combining wavelet denoising, Transformer, and XGBoost.
 
 ## Skills
