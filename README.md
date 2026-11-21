@@ -9,10 +9,7 @@ I am a Software Engineering undergraduate at [Harbin Institute of Technology (HI
 
 ## Research interests
 
-My research interests center on vision-language models (VLMs), especially how to improve their spatial reasoning at inference time without retraining.
-
-- **Training-free spatial reasoning** — Using 3D scene representations, multiple viewpoints, and geometric tools to reason about spatial relationships.
-- **Activation steering** — Extracting steering vectors, identifying where to intervene in the model, and applying them during inference.
+My research focuses on **spatial intelligence**.
 
 ## Publications
 
@@ -28,7 +25,6 @@ My research interests center on vision-language models (VLMs), especially how to
 - [**AIC 2026 Algorithm Challenge**](https://www.aicomp.cn/tracks/tracks-1/3700.html) — 🥇 **National First Prize.** Built a multimodal detector that combines RGB, thermal infrared, and depth images to locate and classify objects in urban scenes.
 - [**FPBA-Syn**](https://github.com/asdf12221/FPBA-Syn) — A framework for remote sensing image synthesis and data augmentation.
 - [**Remote Sensing Detection**](https://github.com/asdf12221/remote-dectection-mode) — An InternImage-L, BiFPN, and Cascade R-CNN pipeline for object detection in remote sensing imagery.
-- [**Stock Trading Model**](https://github.com/asdf12221/stock-trading-model) — A project combining wavelet denoising, Transformer, and XGBoost.
 
 ## Skills
 
